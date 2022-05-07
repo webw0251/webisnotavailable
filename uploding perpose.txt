@@ -1,0 +1,7 @@
+https://github.com/new is for uploding website
+frist you should have an github accout
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+this is the link from where you can get your accout
+In Repository name you have to write your website's name.
+and then we have to click on Create repository....
+ok let's go....
